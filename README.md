@@ -1,7 +1,7 @@
 # beebot_dist
 ## 비트겟 비트코인 선물 자동매매 봇입니다.
 ## 설치방법 - 윈도우 버전
-1. 해당 파일을 다운로드 받으세요
+1. 해당 파일을 다운로드 받으세요 https://github.com/kecheon/beebot_dist/raw/main/bitget/beebot_installer.exe
 2. 다운로드한 파일을 더블클릭해서 설치합니다.
 3. 설치가 완료되면 바탕화면에 BeeBot 디렉토리가 생깁니다.
 4. 바탕화면의 BeeBot 디렉토리를 더블클릭하면 실행파일과 config.json파일이 있습니다.
