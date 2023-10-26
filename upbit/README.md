@@ -5,7 +5,7 @@
 1. 해당 파일을 다운로드 받으세요 https://github.com/kecheon/beebot_dist/raw/main/upbit/beebot-installer.zip
 2. 다운로드한 파일을 압축을 풀고 더블클릭해서 설치합니다.
 3. 설치가 완료되면 바탕화면에 BeeBot 디렉토리가 생깁니다.
-4. 바탕화면의 BeeBot 디렉토리를 더블클릭하면 실행파일과 config.yml, keyw.yml파일이 있습니다.
+4. 바탕화면의 BeeBot 디렉토리를 더블클릭하면 실행파일과 config.yml, keys.yml파일이 있습니다.
 5. beebot 실행파일을 더블클릭하면 제품등록번호, API키 등을 입력하는 화면이 나옵니다.
 6. 모든 정보를 입력하고 봇시작을 클릭하세요.
 7. 매매전략을 선택하고 필요한 파라메터값을 입력한 다음 자동매매시작 버튼을 클릭합니다.
